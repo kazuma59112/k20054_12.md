@@ -45,6 +45,8 @@
 - ホーム画面の変更,真ん中に揃えた
     - https://github.com/2021AIT-OOP2-G04/graph/pull/36
     - https://github.com/2021AIT-OOP2-G04/graph/pull/43
+- アップロード画像のページで、元々ある画像の表示をしないようにした
+    - https://github.com/2021AIT-OOP2-G04/graph/pull/70
 
 ## グループ内でお世話になった人2〜3名を理由とともに挙げる
 - ホーム画面を一緒に考えた(k20126 渡邉匠)
